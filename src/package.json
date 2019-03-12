@@ -1,7 +1,7 @@
 {
   "name": "angular-realworld",
   "version": "0.0.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@angular/animations": "^7.2.8",
     "@angular/cdk": "^7.3.4",
