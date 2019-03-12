@@ -1,7 +1,9 @@
 {
-  "name": "angular-realworld",
+  "name": "nathankatz.github",
   "version": "0.0.0",
   "private": true,
+  "description": "A starter project for AngularJS",
+  "repository": "https://github.com/nathankatz/angular-realworld",
   "dependencies": {
     "@angular/animations": "^7.2.8",
     "@angular/cdk": "^7.3.4",
