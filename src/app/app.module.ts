@@ -24,6 +24,7 @@ import {
   UserService
 } from './shared';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 
 
@@ -46,6 +47,7 @@ const rootRouting: ModuleWithProviders = RouterModule.forRoot([], { useHash: tru
     SharedModule,
     SettingsModule,
     BrowserAnimationsModule,
+    NgbModule
   ],
   providers: [
     ApiService,
