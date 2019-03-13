@@ -25,6 +25,8 @@ import {
 } from './shared';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+
+
 const rootRouting: ModuleWithProviders = RouterModule.forRoot([], { useHash: true });
 
 @NgModule({
